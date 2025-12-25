@@ -1,4 +1,4 @@
 my project react app todo list 
 using React + TailwindCSS
 
-<img width="838" height="696" alt="image" src="https://github.com/user-attachments/assets/a377dd15-3bfc-4b70-b52b-8fae1df46ff6" />
+<img width="830" height="696" alt="image" src="https://github.com/user-attachments/assets/a377dd15-3bfc-4b70-b52b-8fae1df46ff6" />
